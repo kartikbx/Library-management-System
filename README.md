@@ -16,6 +16,14 @@ facility to monitor the members of the library.
 ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
 
 
+## Application images 
+
+![Home page](/images/lms.PNG)
+
+## Schema Diagram
+
+![Schema Diagram](/Project_Report/relationschema.png)
+
 ## 🏁 Technology Stack
 
 - Java
